@@ -8,7 +8,7 @@
 <h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/ac520ab3-bba0-4d5b-bf8f-7f1fdeaa38eb"></h3>
 <h4> 💭 Language : Python <br><br>
      📝 Library : Pandas, Numpy, Matplotlib, Seaborn, Haversine, Geopandas, Scikit-learn <br><br>
-     🛠  Tool : Jupyter, QGIS <br><br>
+     🛠  Tool : Jupyter <br><br>
      📅 진행기간 : 2022.09.01 ~ 2022.11.30</h4>
 
 ### 👨‍👦‍👦 팀원소개
